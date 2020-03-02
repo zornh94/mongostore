@@ -1,0 +1,6 @@
+after go in container 
+1. $mongo
+2. load('data')
+3. use poc
+4. db.test1.find()
+   db.test2.find()
